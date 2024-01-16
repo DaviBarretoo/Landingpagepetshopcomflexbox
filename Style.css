@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+html{
+    font-size: 62.5%;
+}
 
 .conteudo-de-cima {
     background: #EFC356;
@@ -23,7 +26,7 @@
 .titulo-principal {
     color: #FFF;
     font-family: Lato;
-    font-size: 100px;
+    font-size: 10rem;
     font-style: normal;
     font-weight: 800;
     line-height: 88px;
@@ -152,8 +155,8 @@
     border: 1px solid #FFF;
     background: #EFEEEE;
     border: none;
-    flex-wrap: wrap;
-    z-index: 1;
+    flex-wrap: wrap; /* Para jogar para proxima linha */
+    z-index: 2;
     top: 55%;
 }
 
