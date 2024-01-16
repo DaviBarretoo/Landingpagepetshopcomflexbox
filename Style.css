@@ -14,7 +14,7 @@ html{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    height: auto;
+    height: 100vh;
     width: auto;
     
 }
@@ -148,17 +148,17 @@ html{
     display: flex;
     align-items: center;
     position: relative;
-    top: 130%;
+    bottom: 55rem;
     padding: 1rem;
     align-items: flex-start;
-    gap: 7.8rem;
+    gap: 3rem;
     border-radius: 2.4rem;
     border: 1px solid #FFF;
     background: #EFEEEE;
     border: none;
     flex-wrap: wrap; /* Para jogar para proxima linha */
     z-index: 2;
-    top: 55%;
+    ;
 }
 
 .cachorro1 {
@@ -172,7 +172,3 @@ html{
     flex-direction: column;
 }
 
-.brANCO{
-height: 20rem;
-background-color: white;
-}
