@@ -29,8 +29,8 @@ html{
     font-size: 10rem;
     font-style: normal;
     font-weight: 800;
-    line-height: 88px;
-    letter-spacing: 0.8px;
+    line-height: 8.8rem;
+    letter-spacing: 0.08rem;
     padding-top: 50%;
     padding-bottom: 4%;
 }
@@ -38,10 +38,10 @@ html{
 .paragrafo-principal {
     color: #FFF;
     font-family: Lato;
-    font-size: 24px;
+    font-size: 2.4rem;
     font-style: normal;
     font-weight: 400;
-    line-height: 32px;
+    line-height: 3.2rem;
 
 }
 
@@ -49,21 +49,21 @@ html{
     display: flex;
     position: relative;
     z-index: 2;
-    padding: 24px 64px;
+    padding: 2.4rem 6.4rem;
     align-items: flex-start;
-    gap: 10px;
-    border-radius: 40px;
+    gap: 1.0rem;
+    border-radius: 4.0rem;
     background: #7EB5E1;
     border: none;
-    margin-top: 25px;
+    margin-top: 2.5rem;
 
     /*Para o texto*/
     color: #FFF;
     font-family: Lato;
-    font-size: 24px;
+    font-size: 2.4rem;
     font-style: normal;
     font-weight: 500;
-    line-height: 18px;
+    line-height: 1.8rem;
 }
 
 .conteudo-com-imagens {
@@ -80,7 +80,7 @@ html{
     right: 55%;
     width: 80%;
     /* Altere o tamanho conforme necessário */
-    max-width: 200px;
+    max-width: 20rem;
     /* Defina um valor máximo para evitar tamanhos muito grandes em telas maiores */
     height: auto;
 }
@@ -91,7 +91,7 @@ html{
     width: auto;
     width: 100%;
     /* Altere o tamanho conforme necessário */
-    max-width: 700px;
+    max-width: 70rem;
     /* Defina um valor máximo para evitar tamanhos muito grandes em telas maiores */
     height: auto;
     bottom: 10%;
@@ -105,7 +105,7 @@ html{
     left: 15%;
     width: 100%;
     /* Altere o tamanho conforme necessário */
-    max-width: 500px;
+    max-width: 50rem;
     /* Defina um valor máximo para evitar tamanhos muito grandes em telas maiores */
     height: auto;
 
@@ -148,10 +148,10 @@ html{
     align-items: center;
     position: relative;
     top: 130%;
-    padding: 10px;
+    padding: 1rem;
     align-items: flex-start;
-    gap: 78px;
-    border-radius: 24px;
+    gap: 7.8rem;
+    border-radius: 2.4rem;
     border: 1px solid #FFF;
     background: #EFEEEE;
     border: none;
@@ -162,7 +162,7 @@ html{
 
 .cachorro1 {
     display: flex;
-    gap: 5px;
+    gap: 0.5rem;
 }
 
 .conteudo-interno1 {
@@ -172,6 +172,6 @@ html{
 }
 
 .brANCO{
-height: 200px;
+height: 20rem;
 background-color: white;
 }
